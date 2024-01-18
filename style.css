@@ -814,7 +814,6 @@ footer　ここまで
   width: 96%;
   max-width: 940px;
   margin: 28px auto;
-  border: 1px solid #eeeeee;
   font-family: var(--main-font);
 }
 .timeline-list {
