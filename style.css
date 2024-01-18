@@ -86,6 +86,11 @@ a {
   a {
     font-size: 14px;
   }
+.sub_title {
+  font-family: var(--sub-font);
+  font-weight: normal;
+  margin: 4% auto;
+}
   .pc_only {
     display: none;
   }
@@ -616,7 +621,7 @@ footer　ここまで
   #about_pages .about-contents .about-container img {
     position: relative;
     top: 10px;
-    width: 17%;
+    width: 30%;
     height: auto;
   }
   #about_pages .about-contents .about-container .about-box .about-text-box .sub_title {
@@ -760,7 +765,7 @@ footer　ここまで
     justify-content: start;
     align-items: center;
     padding-left: 6%;
-    margin-left: 12%;
+    margin-left: 0;
     max-width: 218px;
     gap: 15%;
     align-items: flex-end;
