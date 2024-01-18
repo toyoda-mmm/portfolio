@@ -77,6 +77,11 @@ a {
     top: 0;
     left: 0; 
     }
+  a {
+    font-family: var(--main-font);
+    font-size: 16px;
+    text-decoration: none;
+}
     #header ul {
       display: flex;
       padding: 5% 0;
@@ -945,7 +950,7 @@ footer　ここまで
             margin: 0 auto 5% auto;
           }
           .text-small {
-            padding: 0 2%;
+            padding: 2% 2%;
           }
         }
       }   
