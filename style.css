@@ -705,6 +705,7 @@ footer　ここまで
     flex-direction: column;
     text-align: center;
     max-width: 600px;
+    padding-bottom: 8%;
   }
   #skills .about-container .contents1 .sub_title {
     margin: 8% auto 4% auto;
