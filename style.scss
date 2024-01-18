@@ -68,13 +68,13 @@ a {
 
 @media screen and (max-width: 600px){
   :root {
-  --main-bgc: #ecf3fb;
-  --sub-bgc: #fff;
-  --sub-bgc2: #d9d9d9;
-  --color1: #0d2781;
-  --color2: #333333;
-  --main-font: "ヒラギノUD角ゴ　W3", "YuGothic";
-  --sub-font: "Times New Roman";
+    --main-bgc: #ecf3fb;
+    --sub-bgc: #fff;
+    --sub-bgc2: #d9d9d9;
+    --color1: #0d2781;
+    --color2: #333333;
+    --main-font: "ヒラギノUD角ゴ　W3", "YuGothic";
+    --sub-font: "Times New Roman";
 }
   .wrapper {
     margin: 0 auto;
