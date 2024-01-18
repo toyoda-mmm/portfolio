@@ -616,7 +616,7 @@ footer　ここまで
   #about_pages .about-contents .about-container img {
     position: relative;
     top: 10px;
-    width: 200px;
+    width: 17%;
     height: auto;
   }
   #about_pages .about-contents .about-container .about-box .about-text-box .sub_title {
@@ -697,7 +697,8 @@ footer　ここまで
   #skills .about-container .contents1 .skills-item-box {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 80%;
+    margin: 0 auto;
   }
   #skills .about-container .contents1 .skills-item-box .skills-item {
     width: 100%;
