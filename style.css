@@ -18,8 +18,8 @@ a {
   --sub-bgc2: #d9d9d9;
   --color1: #0d2781;
   --color2: #333333;
-  --main-font: "游ゴシック体", "YuGothic";
-  --sub-font: "Times New Roman";
+  --main-font: "游ゴシック体", "YuGothic","Calibri";
+  --sub-font: "Times New Roman","Calibri";
 }
 
 .wrapper {
