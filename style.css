@@ -1,5 +1,15 @@
 @charset "UTF-8";
 /** @format */
+:root {
+  --main-bgc: #ecf3fb;
+  --sub-bgc: #fff;
+  --sub-bgc2: #d9d9d9;
+  --color1: #0d2781;
+  --color2: #333333;
+  --main-font: "游ゴシック体", "YuGothic","Calibri";
+  --sub-font: "Times New Roman","Didot","Courier New";
+}
+
 html {
   width: 100%;
   height: 100%;
@@ -10,16 +20,6 @@ html {
 
 a {
   text-decoration: none;
-}
-
-:root {
-  --main-bgc: #ecf3fb;
-  --sub-bgc: #fff;
-  --sub-bgc2: #d9d9d9;
-  --color1: #0d2781;
-  --color2: #333333;
-  --main-font: "游ゴシック体", "YuGothic","Calibri";
-  --sub-font: "Times New Roman","Didot","Courier New";
 }
 
 .wrapper {
