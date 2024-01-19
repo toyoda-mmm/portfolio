@@ -19,7 +19,7 @@ a {
   --color1: #0d2781;
   --color2: #333333;
   --main-font: "游ゴシック体", "YuGothic","Calibri";
-  --sub-font: "Times New Roman","Calibri";
+  --sub-font: "Times New Roman","Didot","Calibri";
 }
 
 .wrapper {
