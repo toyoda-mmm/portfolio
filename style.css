@@ -73,7 +73,7 @@ a {
   --color1: #0d2781;
   --color2: #333333;
   --main-font: "ヒラギノUD角ゴ　W3", "YuGothic";
-  --sub-font: "Times New Roman";
+  --sub-font: "Times New Roman","Didot","Courier New";
 }
 
   .wrapper {
