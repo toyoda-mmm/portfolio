@@ -1,8 +1,6 @@
 @charset "UTF-8";
 /** @format */
-/* <style>
-  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Zen+Kaku+Gothic+New&display=swap');
-</style> */
+
 :root {
   --main-bgc: #ecf3fb;
   --sub-bgc: #fff;
@@ -165,7 +163,6 @@ Worksセクションのスタート
   display: flex;
   flex-direction: column;
   padding-bottom: 250px;
-  /* width: 100%; */
   margin: 0 auto;
 }
 
@@ -189,7 +186,7 @@ Worksセクションのスタート
   font-weight: normal;
   font-size: 2rem;
   padding: 88px 0 0;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
   color: var(--color2);
 }
 
@@ -233,7 +230,7 @@ Worksセクションのスタート
   align-items: center;
 }
 .works-items-web p {
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
   font-size: 20px;
   color: var(--color2);
 }
@@ -273,7 +270,7 @@ Worksセクションのスタート
   background-color: #fff;
   color: var(--color1);
   font-size: 1em;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 .button_01 ::after {
   position: absolute;
@@ -424,7 +421,7 @@ Worksセクションのスタート
 #about .about-contents .about-container .about-box .about-text {
   font-size: 16px;
   font-weight: normal;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
   color: var(--color2);
   margin-top: 6%;
 }
@@ -603,7 +600,7 @@ footer　ここまで
   width: fit-content;
   font-size: 24px;
   border-bottom: 1px solid var(--color2);
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 
 /* SPここから------------------------------- */
@@ -642,7 +639,7 @@ footer　ここまで
 #skills {
   display: flex;
   background-color: var(--main-bgc);
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 
 #skills .contents1 {
@@ -734,7 +731,7 @@ footer　ここまで
   display: inline;
   justify-content: center;
   margin: 0 auto 4%;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 #skills .content2 .tool-box {
   display: inline-flex;
@@ -805,7 +802,7 @@ footer　ここまで
   width: 96%;
   max-width: 940px;
   margin: 28px auto;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 .timeline-list {
   padding: 15px 0;
