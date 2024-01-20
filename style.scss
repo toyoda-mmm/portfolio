@@ -8,11 +8,11 @@
   --sub-bgc2: #d9d9d9;
   --color1: #0d2781;
   --color2: #333333;
-  --main-font: "Zen Kaku Gothic New",　"Calibri",sans-serif;
-  --sub-font: "Cormorant Garamond", "Times New Roman", "Didot", serif;
+  --main-font: "Zen Kaku Gothic New", sans-serif;
+  --sub-font: "Cormorant Garamond", serif;
 }
 html {
-  font-family: "Zen Kaku Gothic New",　"Calibri",sans-serif;
+  font-family: "Zen Kaku Gothic New", sans-serif;
   width: 100%;
   height: 100%;
   background-color: var(--main-bgc);
@@ -53,7 +53,7 @@ a {
       list-style: none;      
   }
     a {
-      font-family: "Zen Kaku Gothic New",　"Calibri",sans-serif;
+      font-family:"Zen Kaku Gothic New", sans-serif;
       font-size: 16px;
       text-decoration: none;
 }
@@ -78,7 +78,7 @@ a {
     left: 0; 
     }
   a {
-    font-family: "Zen Kaku Gothic New",　"Calibri",sans-serif;
+    font-family: "Zen Kaku Gothic New", sans-serif;
     font-size: 16px;
     text-decoration: none;
 }
@@ -118,21 +118,21 @@ a {
       width: 100%;
       font-size: 72px;
       font-weight: normal;
-      font-family: "Cormorant Garamond", "Times New Roman", "Didot", serif;
+      font-family: "Cormorant Garamond", serif;
       color: var(--color1);
       background-color: var(--main-bgc);
      } 
     .sub_title {
       text-align: center;
       font-size: 40px;
-      font-family:  "Cormorant Garamond", "Times New Roman", "Didot", serif;
+      font-family:  "Cormorant Garamond", serif;
       font-weight: normal;
       color: #d9d9d9;
       }       
     .top_text {
       text-align: center;
       font-size: 24px;
-      font-family: "Zen Kaku Gothic New",　"Calibri",sans-serif;
+      font-family: "Zen Kaku Gothic New", sans-serif;
       font-weight: normal;
       color: var(--color2);
       background-color: var(--main-bgc);
@@ -172,13 +172,12 @@ Worksセクションのスタート
   display: flex;
   flex-direction: column;
   padding-bottom: 250px; 
-  /* width: 100%; */
   margin: 0 auto;
 }
 .works-contents {
   max-width: 980px;
   width: 100%;
-  background-color: var(--sub-bgc);
+  background-color: "Cormorant Garamond", serif;
   font-weight: normal;
   text-align: center;
   padding-bottom: 200px
@@ -196,7 +195,7 @@ Worksセクションのスタート
   font-weight: normal;
   font-size: 2rem;
   padding: 88px 0 0;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
   color: var(--color2);
 } 
 
@@ -221,7 +220,7 @@ Worksセクションのスタート
 見出しの左右両端のライン ここまで
 -------------------------*/
 .contents-title {
-  font-family: var(--sub-font);
+  font-family: "Cormorant Garamond", serif;
   color: var(--color1);
   text-align: center;
   padding-top: 20%;
@@ -239,7 +238,7 @@ Worksセクションのスタート
     align-items: center;
     }
     p {
-      font-family: var(--main-font);
+      font-family:"Zen Kaku Gothic New", sans-serif;
       font-size: 20px;
       color: var(--color2);
     }
@@ -281,7 +280,7 @@ Worksセクションのスタート
     background-color: #fff;
     color: var(--color1);
     font-size: 1em;
-    font-family: var(--main-font);
+    font-family:"Zen Kaku Gothic New", sans-serif;
    }
     ::after {
       position: absolute;
@@ -395,7 +394,7 @@ Worksセクションのスタート
 
 .about-container {
   display: flex;
-  background-color: var(--sub-bgc);
+  background-color: "Cormorant Garamond", serif;
   border-radius: 150px 0 150px 0;
   color: var(--color2);
   text-align: left;
@@ -425,14 +424,14 @@ Worksセクションのスタート
   .about-title {
     font-size: 40px;
     font-weight: normal;
-    font-family: var(--sub-font);
+    font-family: "Cormorant Garamond", serif;
     color: var(--color1);
     margin-top: 8%;
   }
   .about-text {
     font-size: 16px;
     font-weight: normal;
-    font-family: var(--main-font);
+    font-family:"Zen Kaku Gothic New", sans-serif;
     color: var(--color2);
     margin-top: 6%;
     .button_01 {
@@ -498,7 +497,7 @@ Worksセクションのスタート
     padding-bottom: 8%;
     background-color: var(--sub-bgc);
     .contact-title {
-      font-family: var(--sub-font);
+      font-family: "Cormorant Garamond", serif;
       color: var(--color1);
       text-align: center;
       padding: 5% 0 3% 0;
@@ -604,7 +603,7 @@ footer　ここまで
         .about-title {
           font-size: 24px;
           padding: 12px 0;
-          font-family: var(--sub-font);
+          font-family: "Cormorant Garamond", serif;
           color: var(--color1);
           } 
           .sub_title {
@@ -612,7 +611,7 @@ footer　ここまで
             width: fit-content;
             font-size: 24px;
             border-bottom: 1px solid var(--color2);
-            font-family: var(--main-font);
+            font-family:"Zen Kaku Gothic New", sans-serif;
           }         
     }
 }
@@ -642,7 +641,7 @@ footer　ここまで
         }
         .about-title {
           font-size: 2.5rem;
-          font-family: var(--sub-font);
+          font-family: "Cormorant Garamond", serif;
           color: var(--color1);
           text-align: center;
           margin: 6% 0;
@@ -660,7 +659,7 @@ footer　ここまで
 #skills {
   display: flex;
   background-color: var(--main-bgc);
-  font-family: var(--main-font);
+  font-family:"Zen Kaku Gothic New", sans-serif;
 }
 #skills .contents1 {
   max-width: 1000px;
@@ -753,7 +752,7 @@ footer　ここまで
     display: inline;
     justify-content: center;
     margin: 0 auto 4%;
-    font-family: var(--main-font);    
+    font-family: "Zen Kaku Gothic New", sans-serif;    
       .tool-box {
         display:inline-flex;     
         justify-content: flex-end;
@@ -826,7 +825,7 @@ footer　ここまで
   max-width: 940px;
   margin: 28px auto;
   border: 1px solid #eeeeee;
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
   &-list {
       padding: 15px 0;
       list-style: none;
@@ -900,7 +899,7 @@ footer　ここまで
 ここから今後達成したい事
 -------------------------*/
 #vision {
-  font-family: var(--main-font);
+  font-family: "Zen Kaku Gothic New", sans-serif;
   .vision-contents {
     .about-container {
       padding: 2% 4% 6%;
