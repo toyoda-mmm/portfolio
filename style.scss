@@ -7,8 +7,8 @@
   --color1: #0d2781;
   --color2: #333333;
   --main-font: "Zen Kaku Gothic New", sans-serif,　"Calibri";
-  --sub-font: "Calisto MT", "Times New Roman",　"Didot",　"Courier New";
-}
+  --sub-font: "EB Garamond", serif,"Times New Roman",　"Didot",　"Courier New";
+ }
 
 html {
   width: 100%;
@@ -73,8 +73,8 @@ a {
     --sub-bgc2: #d9d9d9;
     --color1: #0d2781;
     --color2: #333333;
-    --main-font: 'Zen Kaku Gothic New', sans-serif,　"Calibri";
-    --sub-font: 'EB Garamond', serif,"Times New Roman",　"Didot",　"Courier New";
+    --main-font: "Zen Kaku Gothic New", sans-serif,　"Calibri";
+    --sub-font: "EB Garamond", serif,"Times New Roman",　"Didot",　"Courier New";
 }
   .wrapper {
     margin: 0 auto;
@@ -107,6 +107,11 @@ a {
       .sp_only {
         display: block;
       }
+  .sub_title {
+  font-family: var(--sub-font);
+  font-weight: normal;
+  margin: 4% auto;
+}
 }
 /* SPここまで------------------------------- */
 
