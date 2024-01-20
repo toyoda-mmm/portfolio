@@ -7,7 +7,7 @@
   --color1: #0d2781;
   --color2: #333333;
   --main-font: "Zen Kaku Gothic New", sans-serif,　"Calibri";
-  --sub-font: "Calisto MT", serif,　"Didot",　"Courier New";
+  --sub-font: "EB Garamond", serif,"Times New Roman","Didot","Courier New";
 }
 
 html {
@@ -72,8 +72,8 @@ a {
   --sub-bgc2: #d9d9d9;
   --color1: #0d2781;
   --color2: #333333;
-  --main-font: 'Zen Kaku Gothic New', sans-serif,　"Calibri";
-  --sub-font: 'EB Garamond', serif,"Times New Roman","Didot","Courier New";
+  --main-font: "Zen Kaku Gothic New", sans-serif,　"Calibri";
+  --sub-font: "EB Garamond", serif,"Times New Roman","Didot","Courier New";
 }
 
   .wrapper {
