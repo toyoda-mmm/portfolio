@@ -600,7 +600,7 @@ footer　ここまで
 #about_pages .about-contents .about-container .about-box .about-title {
   font-size: 24px;
   padding: 12px 0;
-  font-family: var(--main-font);
+  font-family: var(--sub-font);
   color: var(--color1);
 }
 #about_pages .about-contents .about-container .about-box .sub_title {
