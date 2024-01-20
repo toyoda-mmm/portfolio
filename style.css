@@ -656,6 +656,7 @@ footer　ここまで
   margin: 4% auto 4%;
   font-size: 24px;
   border-bottom: 1px solid #333;
+  font-family: 'Cormorant Garamond';
 }
 
 .skills-item-box {
@@ -731,7 +732,6 @@ footer　ここまで
   display: inline;
   justify-content: center;
   margin: 0 auto 4%;
-  font-family: "Zen Kaku Gothic New", sans-serif;
 }
 #skills .content2 .tool-box {
   display: inline-flex;
