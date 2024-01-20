@@ -613,7 +613,7 @@ footer　ここまで
         .about-title {
           font-size: 24px;
           padding: 12px 0;
-          font-family: var(--main-font);
+          font-family: var(--sub-font);
           color: var(--color1);
           } 
           .sub_title {
@@ -647,15 +647,15 @@ footer　ここまで
     .about-box {
       .about-text-box {
         .sub_title {
-        margin: 2% auto;
-      }
-      .about-title {
-        font-size: 2.5rem;
-        font-family: var(--sub-font);
-        color: var(--color1);
-        text-align: center;
-        margin: 6% 0;
-      }
+          margin: 2% auto;
+        }
+        .about-title {
+          font-size: 2.5rem;
+          font-family: var(--sub-font);
+          color: var(--color1);
+          text-align: center;
+          margin: 6% 0;
+        }
       }    
     }
   }
