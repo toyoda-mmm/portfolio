@@ -1041,7 +1041,7 @@ footer　ここまで
   #works_page .about-container {
     flex-direction: column;
   }
-  #works_page .text dl {
+  #works_page .text dt {
     padding-left: 4%;
   }
   
@@ -1054,9 +1054,6 @@ footer　ここまで
   #works_page .items-web .inner img {
     height: 40%;
   }
-/* .text dd {
-  margin-bottom: 0;
-} */
   
   #works-book .contents2 {
     width: 100%;
