@@ -1036,6 +1036,9 @@ footer　ここまで
     font-size: 2.5rem;
     padding-top: 35%;
   }
+  #works_pag .heading {
+   margin-bottom: 0;
+  }
   #works_page .about-container {
     flex-direction: column;
   }
