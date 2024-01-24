@@ -1055,6 +1055,10 @@ footer　ここまで
   #works_page .items-web .inner img {
     height: 40%;
   }
+.text dd {
+  margin-bottom: 0;
+}
+  
   #works-book .contents2 {
     width: 100%;
     padding: 0 1% 0 0;
