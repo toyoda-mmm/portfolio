@@ -982,7 +982,7 @@ footer　ここまで
 
 .text dt {
   width: 30%;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
   justify-content: flex-end;
   font-weight: bold;
 }
@@ -990,7 +990,7 @@ footer　ここまで
 .text dd {
   width: 60%;
   padding-bottom: 10px;
-  margin-bottom: 5px;
+ /*  margin-bottom: 5px; */
   margin-left: 0;
   text-align: left;
 }
@@ -1042,7 +1042,7 @@ footer　ここまで
   #works_page .about-container {
     flex-direction: column;
   }
-  #works_page .items-web .text-groupe {
+  #works_page .items-web .text dl {
     padding-left: 4%;
   }
   
@@ -1055,9 +1055,9 @@ footer　ここまで
   #works_page .items-web .inner img {
     height: 40%;
   }
-.text dd {
+/* .text dd {
   margin-bottom: 0;
-}
+} */
   
   #works-book .contents2 {
     width: 100%;
