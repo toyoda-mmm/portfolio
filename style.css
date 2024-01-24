@@ -1041,8 +1041,8 @@ footer　ここまで
   #works_page .about-container {
     flex-direction: column;
   }
-  #works_page .text dt {
-    padding-left: 4%;
+  #works_page .text dl {
+    padding-left: 2%;
   }
   
   #works_page .items-web .inner {
