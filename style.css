@@ -339,7 +339,7 @@ Worksセクションのスタート
   #woks .works-items-web .inner img {
     width: 100%;
   }
-  #woks.works-items-web .inner p {
+  #woks.works-items-web p {
     font-size: 14px;
   }
   .button_01 a {
@@ -352,7 +352,7 @@ Worksセクションのスタート
   margin: 0 auto;
   margin-bottom: 24px;
 }
-#woks .works-items-book .inner p {
+#woks .works-items-book p {
   font-size: 14px;
 }
 #woks .works-items-book .inner .button_01 a {
@@ -707,7 +707,7 @@ footer　ここまで
   }
   #skills .about-container .contents1 .skills-item-box .skills-item {
     width: 100%;
-    margin-bottom: 8%;
+    margin-bottom: 12%;
   }
   #skills .about-container .contents1 .skills-item-box .skills-item img {
     border-radius: 50%;
