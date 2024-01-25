@@ -312,6 +312,7 @@ Worksセクションのスタート
   }
   .heading .book-heading {
     font-size: 18px;
+    width: 40%;
   }
   .heading::before,
   .heading::after {
@@ -331,6 +332,7 @@ Worksセクションのスタート
     width: 100%;
     flex-wrap: wrap;
     text-align: center;
+    justify-content: center;
   }
   #woks .works-items-web .inner {
     width: 100%;
