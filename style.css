@@ -1009,12 +1009,15 @@ footer　ここまで
 }
 
 #works-book .contents2 {
-  text-align: center;
+  display: flex;
+  justify-contents: center;
 }
 #works-book .contents2 .title {
   padding: 3% 0 0;
 }
-
+#works-book .contents2 .inner {
+  gap: 2%;
+}
 #works-camera {
   background-color: var(--sub-bgc);
   padding-bottom: 8%;
