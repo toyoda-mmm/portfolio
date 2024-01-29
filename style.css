@@ -999,6 +999,7 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
   padding: 3% 0 0;
+   background-color: var(--main-bgc);
 }
 .inner-banner {
   width: 50%;
@@ -1020,6 +1021,7 @@ footer　ここまで
 #works-book .contents2 {
   display: flex;
   justify-contents: center;
+   background-color: var(--sub-bgc);
 }
 #works-book .contents2 .title {
   padding: 3% 0 0;
@@ -1030,7 +1032,7 @@ footer　ここまで
   gap: 4%;
 }
 #works-camera {
-  background-color: var(--sub-bgc);
+  background-color: var(--main-bgc);
   padding-bottom: 8%;
 }
 #works-camera .contents3 {
