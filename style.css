@@ -1024,7 +1024,7 @@ footer　ここまで
 #works-book .contents2 .title {
   padding: 3% 0 0;
 }
-#works-book .inner {
+#works-book .contents2 .inner {
   display: flex;
   justify-contents: center;
   gap: 4%;
