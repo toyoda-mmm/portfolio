@@ -957,10 +957,6 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
 }
-/* #works_page .inner {
-  display: flex;
-  flex-wrap: wrap;
-} */
 #works_page .items-web .inner {
   width: 50%;
 }
@@ -1004,10 +1000,12 @@ footer　ここまで
   display: block;
   text-align: center;
 }
-
+.inner-banner img {
+   text-align: center;
+}
 .inner-banner .title {
- text-align: center;
- padding: 1% 0;
+   text-align: center;
+   padding: 1% 0;
 }
 
 #works-book .contents2 {
