@@ -961,15 +961,6 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
 }
-#works_page .inner .items-banner {
-  display: flex;
-  justify-contents: center;
-}
-#works_page .inner .items-banner .title {
-  display: flex;
-  justify-contents: center;
-  padding: 1% 0;
-}
 #works_page .items-web .inner {
   width: 50%;
 }
@@ -1007,6 +998,16 @@ footer　ここまで
   padding-bottom: 10px;
   margin-left: 0;
   text-align: left;
+}
+
+#works_page .inner .items-banner {
+  display: flex;
+  justify-contents: center;
+}
+#works_page .inner .title {
+  display: flex;
+  justify-contents: center;
+  padding: 1% 0;
 }
 
 #works-book .contents2 {
