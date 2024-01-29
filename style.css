@@ -998,7 +998,7 @@ footer　ここまで
 .items-banner {
   display: flex;
   flex-wrap: wrap;
-  
+  padding: 3% 0 0;
 }
 .inner-banner {
   width: 50%;
