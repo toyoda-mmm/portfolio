@@ -999,15 +999,17 @@ footer　ここまで
   margin-left: 0;
   text-align: left;
 }
-
-#works_page .inner .items-banner {
+#works_page .inner{
   display: flex;
   justify-contents: center;
 }
-#works_page .inner .title {
-  display: flex;
-  justify-contents: center;
-  padding: 1% 0;
+
+#works_page .inner .items-banner {
+  text-align: center;
+}
+#works_page .items-banner .title {
+ text-align: center;
+ padding: 1% 0;
 }
 
 #works-book .contents2 {
