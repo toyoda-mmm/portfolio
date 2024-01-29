@@ -1000,7 +1000,7 @@ footer　ここまで
   flex-wrap: wrap;
 }
 .inner-banner {
-  width: 50%;
+  width: 45%;
   display: block;
   text-align: center;
 }
@@ -1020,6 +1020,8 @@ footer　ここまで
   padding: 3% 0 0;
 }
 #works-book .contents2 .inner {
+  display: flex;
+  justify-contents: center;
   gap: 2%;
 }
 #works-camera {
