@@ -1000,13 +1000,10 @@ footer　ここまで
   text-align: left;
 }
 .inner-banner {
-  display: flex;
-  justify-contents: center;
+  display: block;
+   text-align: center;
 }
 
-.inner-banner .items-banner {
-  text-align: center;
-}
 .inner-banner .title {
  text-align: center;
  padding: 1% 0;
