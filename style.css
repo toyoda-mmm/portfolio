@@ -957,11 +957,11 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
 }
-#works_page .items-banner {
+#works_page .inner .items-banner {
   display: flex;
   align-items: center;
 }
-#works_page .items-banner .title {
+#works_page .inner .items-banner .title {
   text-align: center;
   padding: 1% 0;
 }
