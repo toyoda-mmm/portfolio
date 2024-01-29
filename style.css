@@ -1018,15 +1018,15 @@ footer　ここまで
    padding: 4% 0;
 }
 
-#works-book .contents2 {
+.contents2 {
   display: flex;
   justify-contents: center;
-   background-color: var(--sub-bgc);
+  background-color: var(--sub-bgc);
 }
-#works-book .contents2 .title {
+.contents2 .title {
   padding: 3% 0 0;
 }
-#works-book .contents2 .inner img {
+.contents2 .inner img {
   display: flex;
   justify-contents: center;
   gap: 4%;
