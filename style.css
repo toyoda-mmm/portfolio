@@ -957,10 +957,10 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
 }
-#works_page .inner {
+/* #works_page .inner {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 #works_page .items-web .inner {
   width: 50%;
 }
@@ -999,6 +999,7 @@ footer　ここまで
   margin-left: 0;
   text-align: left;
 }
+
 .inner-banner {
   display: block;
   text-align: center;
