@@ -1020,10 +1020,10 @@ footer　ここまで
 #works-book .contents2 .title {
   padding: 3% 0 0;
 }
-#works-book .contents2 .inner {
+#works-book .inner {
   display: flex;
   justify-contents: center;
-  gap: 2%;
+  gap: 4%;
 }
 #works-camera {
   background-color: var(--sub-bgc);
