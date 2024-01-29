@@ -995,8 +995,12 @@ footer　ここまで
   margin-left: 0;
   text-align: left;
 }
-
+.items-banner {
+  display: flex;
+  flex-wrap: wrap;
+}
 .inner-banner {
+  width: 50%;
   display: block;
   text-align: center;
 }
