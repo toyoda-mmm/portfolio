@@ -957,6 +957,10 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
 }
+#works_page .inner {
+  display: flex;
+  flex-wrap: wrap;
+}
 #works_page .inner .items-banner {
   display: flex;
   justify-contents: center;
