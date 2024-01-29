@@ -1008,6 +1008,10 @@ footer　ここまで
 .inner-banner img {
    text-align: center;
 }
+.inner-banner .title-banner {
+  padding: 8% 0 0;
+}
+
 .inner-banner .title {
    text-align: center;
    padding: 4% 0;
