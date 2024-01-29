@@ -957,6 +957,14 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
 }
+#works_page .items-banner {
+  display: flex;
+  align-items: center;
+}
+#works_page .items-banner .title {
+  text-align: center;
+  padding: 1% 0;
+}
 #works_page .items-web .inner {
   width: 50%;
 }
