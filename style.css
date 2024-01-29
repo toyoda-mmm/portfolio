@@ -998,6 +998,7 @@ footer　ここまで
 .items-banner {
   display: flex;
   flex-wrap: wrap;
+  
 }
 .inner-banner {
   width: 45%;
