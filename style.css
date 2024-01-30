@@ -1030,11 +1030,9 @@ footer　ここまで
 }
 
 .contents-book .book-inner {
-  dispray: flex;
+  display: flex;
   justify-content: center;
-}
-
-.contents-book .book-inner img {
+  gap: 4%;
 }
 
 #works-camera {
