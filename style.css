@@ -1027,10 +1027,7 @@ footer　ここまで
   text-align: center;
   padding: 3% 0 0;
 }
-.contents2 .inner img {
-  display: flex;
-  text-align: center;
-}
+
 #works-camera {
   background-color: var(--main-bgc);
   padding-bottom: 8%;
