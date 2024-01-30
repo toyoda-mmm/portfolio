@@ -981,6 +981,7 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+  padding-bottom: 8%;
 }
 
 .text dt {
@@ -1006,7 +1007,6 @@ footer　ここまで
   width: 50%;
   display: block;
   text-align: center;
-  padding-bottom: 8%;
 }
 .inner-banner img {
    text-align: center;
@@ -1034,7 +1034,6 @@ footer　ここまで
   display: flex;
   justify-content: center;
   gap: 4%;
-  padding-bottom: 8%;
 }
 
 #works-camera {
