@@ -1022,20 +1022,10 @@ footer　ここまで
   background-color: var(--sub-bgc);
 }
 
-.contents2 .inner {
-  display: inline-block;
-  margin: 0 auto;
-  padding-left: 4%;
-}
-
 .contents2 .title {
   padding: 3% 0 0;
 }
-/* .contents2 .inner img {
-  display: flex;
-  justify-contents: center;
-  gap: 4%;
-} */
+
 #works-camera {
   background-color: var(--main-bgc);
   padding-bottom: 8%;
