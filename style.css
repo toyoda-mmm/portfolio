@@ -185,7 +185,7 @@ Worksセクションのスタート
   text-align: center;
   font-weight: normal;
   font-size: 2rem;
-  padding: 88px 0 0;
+  padding: 8% 0 0;
   font-family: "Zen Kaku Gothic New", sans-serif;
   color: var(--color2);
 }
@@ -999,13 +999,14 @@ footer　ここまで
 .items-banner {
   display: flex;
   flex-wrap: wrap;
-  padding: 3% 0 0;
-   background-color: var(--main-bgc);
+  padding: 3% 0 0 4%;
+  background-color: var(--main-bgc);
 }
 .inner-banner {
   width: 50%;
   display: block;
   text-align: center;
+  padding-bottom: 8%;
 }
 .inner-banner img {
    text-align: center;
@@ -1033,6 +1034,7 @@ footer　ここまで
   display: flex;
   justify-content: center;
   gap: 4%;
+  padding-bottom: 8%;
 }
 
 #works-camera {
