@@ -981,7 +981,7 @@ footer　ここまで
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  padding-bottom: 8%;
+  padding-bottom: 4%;
 }
 
 .text dt {
