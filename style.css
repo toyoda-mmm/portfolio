@@ -1019,23 +1019,23 @@ footer　ここまで
 }
 
 .contents2 {
-  display: flex;
-  justify-contents: center;
   background-color: var(--sub-bgc);
 }
-.contents2 .inner{
-  display: flex;
-  justify-contents: center;
-  gap: 4%;
+
+.contents2 inner {
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 4%;
 }
+
 .contents2 .title {
   padding: 3% 0 0;
 }
-.contents2 .inner img {
+/* .contents2 .inner img {
   display: flex;
   justify-contents: center;
   gap: 4%;
-}
+} */
 #works-camera {
   background-color: var(--main-bgc);
   padding-bottom: 8%;
