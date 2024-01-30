@@ -1023,6 +1023,11 @@ footer　ここまで
   justify-contents: center;
   background-color: var(--sub-bgc);
 }
+.contents2 .inner{
+  display: flex;
+  justify-contents: center;
+  gap: 4%;
+}
 .contents2 .title {
   padding: 3% 0 0;
 }
