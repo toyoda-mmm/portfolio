@@ -244,7 +244,7 @@ Worksセクションのスタート
 }
 .works-items-book .inner {
   display: flex;
-  text-align: center;
+  justify-contents: center;
   gap: 24px;
   margin-bottom: 32px;
 }
