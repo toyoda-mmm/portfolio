@@ -1019,21 +1019,22 @@ footer　ここまで
    padding: 4% 0;
 }
 
-.contents2 {
+.contents-book {
+  display: block;
   background-color: var(--sub-bgc);
 }
 
-.contents2 .title {
+.contents-book .title {
   text-align: center;
   padding: 3% 0 0;
 }
 
 .contents-book .book-inner {
   dispray: flex;
+  justify-content: center;
 }
 
 .contents-book .book-inner img {
-  text-align: center;
 }
 
 #works-camera {
