@@ -305,7 +305,7 @@ Worksセクションのスタート
     padding-bottom: 50px;
   }
   .heading {
-    justify-content: flex-start;
+    justify-content: flex-center;
     font-size: 20px;
     padding: 40px 2%;
     font-weight: bold;
@@ -316,7 +316,7 @@ Worksセクションのスタート
   }
   .heading::before,
   .heading::after {
-    width: 70%;
+    width: 60%;
   }
   .heading::before {
     display: none;
