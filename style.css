@@ -350,8 +350,9 @@ Worksセクションのスタート
   }
 }
 #woks .works-items-book .inner {
-  justify-content: space-between;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 4%;
   margin-bottom: 24px;
 }
 #woks .works-items-book p {
@@ -1023,6 +1024,7 @@ footer　ここまで
 }
 
 .contents2 .title {
+  text-align: center;
   padding: 3% 0 0;
 }
 
