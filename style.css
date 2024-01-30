@@ -1022,7 +1022,7 @@ footer　ここまで
   background-color: var(--sub-bgc);
 }
 
-.contents2 inner {
+.contents2 .inner {
   display: inline-block;
   margin: 0 auto;
   padding-left: 4%;
