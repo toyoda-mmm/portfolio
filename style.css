@@ -1028,11 +1028,11 @@ footer　ここまで
   padding: 3% 0 0;
 }
 
-.contents .book-inner {
+.contents-book .book-inner {
   dispray: flex;
 }
 
-.contents .book-inner img {
+.contents-book .book-inner img {
   text-align: center;
 }
 
