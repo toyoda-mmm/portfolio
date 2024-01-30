@@ -1088,8 +1088,14 @@ footer　ここまで
   #works_page .items-web .inner img {
     height: 40%;
   }
+.items-banner {
+  display: flex;
+  flex-direction: column;
+  padding: 3% 0 0 4%;
+  background-color: var(--main-bgc);
+}
   
-  #works-book .contents2 {
+.inner-banner {
     width: 100%;
     padding: 0 1% 0 0;
   }
