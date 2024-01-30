@@ -1028,6 +1028,14 @@ footer　ここまで
   padding: 3% 0 0;
 }
 
+.contents .book-inner {
+  dispray: flex;
+}
+
+.contents .book-inner img {
+  text-align: center;
+}
+
 #works-camera {
   background-color: var(--main-bgc);
   padding-bottom: 8%;
