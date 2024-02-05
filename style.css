@@ -167,7 +167,6 @@ Worksセクションのスタート
 }
 
 .works-contents {
-  max-width: 980px;
   width: 100%;
   background-color: var(--sub-bgc);
   font-weight: normal;
@@ -385,6 +384,7 @@ Worksセクションのスタート
 
 .about-container {
   display: flex;
+  justify-content: center;
   background-color: var(--sub-bgc);
   border-radius: 150px 0 150px 0;
   color: var(--color2);
