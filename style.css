@@ -1000,7 +1000,7 @@ footer　ここまで
 .items-banner {
   display: flex;
   flex-wrap: wrap;
-  padding: 3% 0 0 4%;
+  padding: 3% 4% 0 4%;
   background-color: var(--main-bgc);
 }
 .inner-banner {
