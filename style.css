@@ -1011,6 +1011,8 @@ footer　ここまで
 }
 .inner-banner img {
    text-align: center;
+   height: 40%;
+   object-fit: contain;
 }
 .inner-banner .title-banner {
   padding: 8% 0 4%;
