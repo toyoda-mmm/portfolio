@@ -998,6 +998,7 @@ footer　ここまで
   text-align: left;
 }
 .items-banner {
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   padding: 3% 4% 0 4%;
