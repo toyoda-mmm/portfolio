@@ -764,6 +764,7 @@ footer　ここまで
 @media screen and (max-width: 600px) {
   #skills .content2 .tool-box {
     display: flex;
+    flex-wrap: wrap;
     justify-content: start;
     align-items: center;
     padding-left: 0%;
