@@ -766,13 +766,14 @@ footer　ここまで
     display: flex;
     flex-wrap: wrap;
     justify-content: start;
+    width: 80%;
     align-items: center;
-    padding-left: 0%;
+    padding-left: 3%;
     gap: 15%;
     align-items: flex-end;
   }
   #skills .content2 .tool-box .tool img {
-    width: 50px;
+    width: 60%;
     height: auto;
   }
   #skills .content2 .tool-box .tool p {
