@@ -766,7 +766,7 @@ footer　ここまで
     display: flex;
     justify-content: start;
     align-items: center;
-    padding-left: none;
+    padding-left: 0%;
     margin-left: 2%;
     max-width: 218px;
     width: 50%;
