@@ -766,9 +766,10 @@ footer　ここまで
     display: flex;
     justify-content: start;
     align-items: center;
-    padding-left: 6%;
-    margin-left: 8%;
+    padding-left: none;
+    margin-left: 2%;
     max-width: 218px;
+    width: 50%;
     gap: 15%;
     align-items: flex-end;
   }
