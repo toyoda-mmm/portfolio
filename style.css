@@ -750,7 +750,7 @@ footer　ここまで
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 13%;
+  width: 12%;
 }
 #skills .content2 .tool img {
   -o-object-fit: cover;
