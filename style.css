@@ -773,7 +773,7 @@ footer　ここまで
     align-items: flex-end;
   }
   #skills .content2 .tool-box .tool img {
-    width: 60%;
+    width: 50px;
     height: auto;
   }
   #skills .content2 .tool-box .tool p {
