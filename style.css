@@ -768,9 +768,6 @@ footer　ここまで
     justify-content: start;
     align-items: center;
     padding-left: 0%;
-    margin-left: 2%;
-    max-width: 218px;
-    width: 50%;
     gap: 15%;
     align-items: flex-end;
   }
