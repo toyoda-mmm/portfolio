@@ -113,11 +113,11 @@ a {
 }
 #top_contents .first_vew .top_img {
   position: relative;
-  top: 20%;
+  top: 16%;
 }
 #top_contents .first_vew .down_img {
   position: relative;
-  top: 30%;
+  top: -15%;
 }
 #top_contents .first_vew .site_title {
   width: 100%;
