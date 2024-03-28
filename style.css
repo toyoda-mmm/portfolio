@@ -111,6 +111,10 @@ a {
   display: inline-block;
   text-align: center;
 }
+#top_contents .first_vew img {
+  position: relative;
+  top: 20%;
+}
 #top_contents .first_vew .site_title {
   width: 100%;
   font-size: 72px;
