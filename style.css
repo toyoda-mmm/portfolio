@@ -104,7 +104,7 @@ a {
 #top_contents {
   display: flex;
   background-color: var(--main-bgc);
-  padding: 250px 0;
+  padding: 200px 0;
   font-size: 64px;
 }
 #top_contents .first_vew {
